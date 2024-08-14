@@ -23,9 +23,14 @@ nav {
 
 
 }
+.daddy{
+  margin-top: -10rem;  
+}
 
 .logo {
-    width: 140px;
+    width: 184px;
+   
+    margin-left: -7rem;
 }
 
 .image img {
@@ -43,8 +48,9 @@ nav {
 }
 
 .a {
-    width: 90%;
+    width: 100%;
     margin: 0% auto;
+    margin-left: 2em;
 }
 
 nav ul li {
@@ -78,9 +84,12 @@ nav ul li a:hover::after {
     width: 100%;
 
 }
+.header-text{
+    margin-top: -6em;
+}
 .header-text h1{
     font-size: 40px;
-    margin-top: 1px;
+ letter-spacing: 1px;
 }
 .header-text h1 span {
     color: #f600c1;
